@@ -3,11 +3,11 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Pedro Augusto Vieira Rezende      
+Matricula: 715475
 
 ## Tela de inspeção com navegador
-
+![Inspeção de Conexão](PaginaWEB_Flatout.jpg)
 
 ## Tela de projeto no Replit
-
+![Projeto Replit](PaginaWEB_Replit.jpg)
